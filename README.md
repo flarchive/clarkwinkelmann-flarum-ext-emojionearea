@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-emojionearea.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-emojionearea) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-emojionearea).
 
-**0** versions archived · Latest: [`1.1.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-emojionearea/tree/archive/v1.1.1) · License: `MIT` · Flarum: `^1.2`
+**12** versions archived · Latest: [`1.1.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-emojionearea/tree/archive/v1.1.1) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.2` | 2017-08-24 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-emojionearea/tree/archive/v0.1.2) |
+| `0.2.0` | 2019-04-22 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-emojionearea/tree/archive/v0.2.0) |
+| `0.2.0-beta.1` | 2019-04-16 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-emojionearea/tree/archive/v0.2.0-beta.1) |
+| `0.2.1` | 2020-02-29 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-emojionearea/tree/archive/v0.2.1) |
+| `0.2.2` | 2020-05-03 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-emojionearea/tree/archive/v0.2.2) |
+| `0.3.0` | 2020-11-16 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-emojionearea/tree/archive/v0.3.0) |
+| `0.3.1` | 2021-03-22 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-emojionearea/tree/archive/v0.3.1) |
+| `1.0.0` | 2021-05-28 | `^1.0` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-emojionearea/tree/archive/v1.0.0) |
+| `1.1.0` | 2025-01-30 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-emojionearea/tree/archive/v1.1.0) |
+| `1.1.1` | 2025-03-18 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-emojionearea/tree/archive/v1.1.1) |
+
+[View all 12 versions](https://github.com/flarchive/clarkwinkelmann-flarum-ext-emojionearea/tags)
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-emojionearea.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-emojionearea.json)
 
